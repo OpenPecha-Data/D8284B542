@@ -10,10 +10,11 @@ annotations:
     span:
       start: 2338
       end: 2338
+      fail_update: both
   b3c1d6ff0c74445890defec944692240:
     span:
-      start: 2373
-      end: 2373
+      start: 2372
+      end: 2372
 local_ids:
   d78732385ba7439bb555a73741d5d0f5: 200000
   f24b34bccb18406581f8243d48b510d3: 200001
